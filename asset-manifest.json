@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/shopme/static/css/main.dab657e6.css",
+    "main.js": "/shopme/static/js/main.b53bca96.js",
+    "static/media/laptops.png": "/shopme/static/media/laptops.f461dccbd98c9ba1807f.png",
+    "static/media/womens-dresses.png": "/shopme/static/media/womens-dresses.fc3e856f20932c7eb9da.png",
+    "static/media/tops.png": "/shopme/static/media/tops.3a04815fe84c4a244778.png",
+    "static/media/motorcycle.png": "/shopme/static/media/motorcycle.8a3b75622a6d3b2c6e83.png",
+    "static/media/groceries.png": "/shopme/static/media/groceries.4391bcac5c6ee3920c3f.png",
+    "static/media/womens-jewellery.png": "/shopme/static/media/womens-jewellery.ad71ab8d40856a68e3de.png",
+    "static/media/womens-shoes.png": "/shopme/static/media/womens-shoes.4cee81907bf819a5f252.png",
+    "static/media/sunglasses.png": "/shopme/static/media/sunglasses.8aebc824f4321eb958ae.png",
+    "static/media/mens-shirts.png": "/shopme/static/media/mens-shirts.1eac9b079c9a28bdce8f.png",
+    "static/media/lighting.png": "/shopme/static/media/lighting.eeb79e51010eb31c872e.png",
+    "static/media/automotive.png": "/shopme/static/media/automotive.b7114c06d934dfeb1143.png",
+    "static/media/mens-shoes.png": "/shopme/static/media/mens-shoes.afab3fcf22371085f7e4.png",
+    "static/media/mens-watches.png": "/shopme/static/media/mens-watches.a09c0acbcf234edee87c.png",
+    "static/media/home-decoration.png": "/shopme/static/media/home-decoration.31ae7bf4eda8bc2c02c4.png",
+    "static/media/fragrances.png": "/shopme/static/media/fragrances.f5522444583b4ba5e251.png",
+    "static/media/furniture.png": "/shopme/static/media/furniture.6a32d31cfb677da6f006.png",
+    "static/media/skincare.png": "/shopme/static/media/skincare.b7832a1aa2296c76ba07.png",
+    "static/media/womens-bags.png": "/shopme/static/media/womens-bags.f52f17d9da508e4fe5f0.png",
+    "static/media/womens-watches.png": "/shopme/static/media/womens-watches.fef7f624aeff73208127.png",
+    "static/media/smartphones.png": "/shopme/static/media/smartphones.8a8b4e0fbd36b5bbacd1.png",
+    "index.html": "/shopme/index.html",
+    "main.dab657e6.css.map": "/shopme/static/css/main.dab657e6.css.map",
+    "main.b53bca96.js.map": "/shopme/static/js/main.b53bca96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dab657e6.css",
+    "static/js/main.b53bca96.js"
+  ]
+}
