@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shopme/static/css/main.dab657e6.css",
-    "main.js": "/shopme/static/js/main.b53bca96.js",
+    "main.js": "/shopme/static/js/main.614e172a.js",
     "static/media/laptops.png": "/shopme/static/media/laptops.f461dccbd98c9ba1807f.png",
     "static/media/womens-dresses.png": "/shopme/static/media/womens-dresses.fc3e856f20932c7eb9da.png",
     "static/media/tops.png": "/shopme/static/media/tops.3a04815fe84c4a244778.png",
@@ -24,10 +24,10 @@
     "static/media/smartphones.png": "/shopme/static/media/smartphones.8a8b4e0fbd36b5bbacd1.png",
     "index.html": "/shopme/index.html",
     "main.dab657e6.css.map": "/shopme/static/css/main.dab657e6.css.map",
-    "main.b53bca96.js.map": "/shopme/static/js/main.b53bca96.js.map"
+    "main.614e172a.js.map": "/shopme/static/js/main.614e172a.js.map"
   },
   "entrypoints": [
     "static/css/main.dab657e6.css",
-    "static/js/main.b53bca96.js"
+    "static/js/main.614e172a.js"
   ]
 }
