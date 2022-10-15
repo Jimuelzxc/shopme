@@ -4,7 +4,7 @@ import Category from './pages/Category';
 import Search from './pages/Search';    
 import { useEffect } from 'react';
 
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 function App() {
   useEffect(() => {
     window.scrollTo(0, 0)
